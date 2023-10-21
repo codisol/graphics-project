@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.projek {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: block;
+}
