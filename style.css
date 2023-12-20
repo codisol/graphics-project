@@ -1,10 +1,9 @@
 body {
     margin: 0;
+    overflow: hidden;
 }
 
-.projek {
-    position: fixed;
-    top: 0;
-    left: 0;
-    display: block;
+#projek {
+    width: 100vw;
+    height: 100vh;
 }
